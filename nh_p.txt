@@ -16,4 +16,4 @@
 72.206.181.105:64935 u
 184.178.172.25:15291 u
 184.178.172.28:15294 u
-209.159.153.21:22155 a hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
+209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
