@@ -6,6 +6,7 @@
 67.213.210.61:34680 a ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
 67.213.210.118:47669 u
 67.213.210.167:30945 u
+67.213.212.36	34694 a ?d z? b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
 67.213.212.40:21321 a ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
 67.213.212.40:45563 md zt ? us
 67.213.212.40:55108 md
