@@ -4,6 +4,7 @@
 66.29.128.246:38799 a md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
 66.29.128.246:53029 hd
 67.213.210.61:34680 a ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
+67.213.210.167:30945 u
 67.213.212.40:21321 a ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
 67.213.212.40:45563 md zt ? us
 67.213.212.40:55108 md
