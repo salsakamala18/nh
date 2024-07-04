@@ -1,5 +1,5 @@
 65.169.38.73:26592 u
-66.29.128.241:42723 x
+66.29.128.241:42723 a md z? b us ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.245:47127 d xd
 66.29.128.246:38799 a md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
 66.29.128.246:53029 hd
