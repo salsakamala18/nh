@@ -3,14 +3,14 @@
 66.29.128.245:47127 d xd
 66.29.128.246:38799 a md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
 66.29.128.246:53029 hd
-67.213.210.61:34680 a ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
+67.213.210.61:34680 b ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
 67.213.210.118:47669 u
 67.213.210.167:30945 u
 67.213.212.36:34694 a ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
-67.213.212.40:21321 a ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
+67.213.212.40:21321 d ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
 67.213.212.40:45563 md zt ? us
 67.213.212.40:55108 md
-67.213.212.47:50797 a ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
+67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
 67.213.212.49:28752 md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.51:43760 md
 67.213.212.54:28394 d md zf b us ip="184.57.60.37" p="Charter Communications Inc" asn="AS10796" rc="OH" c="Columbus" pc="43214"
