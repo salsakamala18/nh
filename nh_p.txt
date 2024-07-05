@@ -1,12 +1,12 @@
 65.169.38.73:26592 u
-66.29.128.241:42723 a md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
+66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.245:47127 d xd
-66.29.128.246:38799 a md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
+66.29.128.246:38799 d md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
 66.29.128.246:53029 hd
 67.213.210.61:34680 b ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
 67.213.210.118:47669 u
 67.213.210.167:30945 u
-67.213.212.36:34694 a ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
+67.213.212.36:34694 d ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
 67.213.212.40:15195 a ?d ip="96.91.69.54" p="Comcast Cable Communications, LLC" asn="AS7922" r="Michigan" rc="MI" c="Auburn Hills" pc="48326"
 67.213.212.40:21321 d ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
 67.213.212.40:45563 md zt ? us
