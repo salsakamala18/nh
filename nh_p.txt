@@ -25,4 +25,4 @@
 184.178.172.28:15294 u
 209.159.153.20:33777 a hd z? us ip="73.182.244.193" p="Comcast Cable Communications, LLC" asn="AS7015" r="Massachusetts" rc="MA" c="Boston" pc="02112"
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
-209.159.153.22:39182 a
+209.159.153.22:39182 a hd zt b us c="Ojai"
