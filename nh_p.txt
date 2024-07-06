@@ -17,7 +17,7 @@
 67.213.212.40:55108 md
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
-67.213.212.48:45296 a ?d z? w us
+67.213.212.48:45296 a ld zt w us
 67.213.212.49:28752 md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.51:43760 md
 67.213.212.54:28394 d md zf b us ip="184.57.60.37" p="Charter Communications Inc" asn="AS10796" rc="OH" c="Columbus" pc="43214"
