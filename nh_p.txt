@@ -19,6 +19,7 @@
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
 67.213.212.48:45296 a ld zt w us
 67.213.212.49:28752 md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
+67.213.212.49:38005 a r us ip="24.45.213.77"
 67.213.212.51:41557 r us ip="98.116.225.81" p="Verizon Business"
 67.213.212.51:43760 md
 67.213.212.54:28394 d md zf b us ip="184.57.60.37" p="Charter Communications Inc" asn="AS10796" rc="OH" c="Columbus" pc="43214"
