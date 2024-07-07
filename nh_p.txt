@@ -39,5 +39,5 @@
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
 209.159.153.22:11372 a hd zt r us
 209.159.153.22:39182 a hd zt b us c="Ojai"
-209.159.153.22:45233 a r us
+209.159.153.22:45233 a r us ip="96.70.212.134" p="Comcast Cable Communications, LLC" asn="AS7922" r="Massachusetts" rc="MA" c="Masphee" pc="02649"
 209.159.153.22:52218 a r us ip="73.112.199.72" p="Comcast Cable Communications, LLC" asn="AS7922" r="New Jersey" rc="NJ" c="East Windsor" pc="none"
