@@ -1,7 +1,7 @@
 65.169.38.73:26592 u
-66.23.233.210:18570 a r us ip="68.206.254.132" p="Charter Communications Inc" r="Texas" rc="TX" c="San Antonio"
+66.23.233.210:18570 d r us ip="68.206.254.132" p="Charter Communications Inc" r="Texas" rc="TX" c="San Antonio"
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
-66.29.128.241:62860 a ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
+66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
 66.29.128.244:36382 a r us ip="96.92.141.13" p="Comcast Cable Communications, LLC" r="Massachusetts" rc="MA"
 66.29.128.245:47127 d xd
 66.29.128.246:38799 d md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
