@@ -42,6 +42,7 @@
 184.178.172.25:15291 u
 184.178.172.28:15294 u
 207.180.204.122:26492 a s4 nl
+209.159.153.19:60727 a r us ip="98.116.129.212" p="Verizon Business" c="New York"
 209.159.153.20:33777 d hd z? us ip="73.182.244.193" p="Comcast Cable Communications, LLC" asn="AS7015" r="Massachusetts" rc="MA" c="Boston" pc="02112"
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
 209.159.153.22:11372 d hd zt r us
