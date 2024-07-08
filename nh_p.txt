@@ -12,7 +12,7 @@
 67.213.210.118:47669 u
 67.213.210.167:30945 u
 67.213.212.36:34694 d ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
-67.213.212.38:19205 r us ip="75.73.74.187" p="Comcast Cable Communications, LLC" r="Minnesota" rc="MN" c="Roseville" pc="none"
+67.213.212.38:19205 a r us ss ip="75.73.74.187" p="Comcast Cable Communications, LLC" r="Minnesota" rc="MN" c="Roseville" pc="none"
 67.213.212.38:23519 d ?d zt b us ip="65.140.86.178" p="" asn="AS209" r="North Carolina" rc="NC" c="Clayton" pc="27520"
 67.213.212.40:15195 d ?d ip="96.91.69.54" p="Comcast Cable Communications, LLC" asn="AS7922" r="Michigan" rc="MI" c="Auburn Hills" pc="48326"
 67.213.212.40:21321 d ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
