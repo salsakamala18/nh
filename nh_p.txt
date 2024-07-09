@@ -29,6 +29,7 @@
 67.213.212.51:41557 d r us ip="98.116.225.81" p="Verizon Business"
 67.213.212.51:43760 d md
 67.213.212.51:59136 d b us ip="69.11.249.122" c="Madison"
+67.213.212.52:14073 a b us ip="76.89.212.159" p="Charter Communications Inc" asn="AS20001" c="Torrance" pc="90501"
 67.213.212.54:28394 d md zf b us ip="184.57.60.37" p="Charter Communications Inc" asn="AS10796" rc="OH" c="Columbus" pc="43214"
 67.213.212.56:10008 a r us ip="23.24.176.230" p="Comcast Cable Communications, LLC" r="Florida" asn="AS7922" rc="FL" c="Boca Raton" pc="33429" [kitchencrush]
 67.213.212.56:38607 am md zt r us ip="50.250.60.126" p="Comcast Cable Communications, LLC" asn="AS7922" rc="MA" c="Needham" pc="02494"
