@@ -12,6 +12,7 @@
 67.201.33.10:25283 u
 67.205.177.122:64252 a s
 67.213.210.61:34680 b ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
+67.213.210.118:10651 a r us ip="207.183.178.226"
 67.213.210.118:47669 u
 67.213.210.167:30945 u
 67.213.212.36:34694 d ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
