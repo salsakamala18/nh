@@ -16,7 +16,7 @@
 67.213.210.118:47669 u
 67.213.210.167:30945 u
 67.213.212.36:34694 d ?d zf b us ip="76.53.19.74" p="Charter Communications Inc" asn="AS20001" r="California" rc="CA" c="Santa Ana" pc="92701"
-67.213.212.38:19205 a r us ip="75.73.74.187" p="Comcast Cable Communications, LLC" r="Minnesota" rc="MN" c="Roseville" pc="none" [kitchencrush]
+67.213.212.38:19205 d r us ip="75.73.74.187" p="Comcast Cable Communications, LLC" r="Minnesota" rc="MN" c="Roseville" pc="none" [kitchencrush]
 67.213.212.38:23519 d ?d zt b us ip="65.140.86.178" p="" asn="AS209" r="North Carolina" rc="NC" c="Clayton" pc="27520"
 67.213.212.40:15195 d ?d ip="96.91.69.54" p="Comcast Cable Communications, LLC" asn="AS7922" r="Michigan" rc="MI" c="Auburn Hills" pc="48326"
 67.213.212.40:21321 d ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
@@ -24,10 +24,10 @@
 67.213.212.40:55108 d md
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
-67.213.212.48:45296 a ld zt w us
+67.213.212.48:45296 d ld zt w us
 67.213.212.49:28752 d md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.49:38005 d r us ip="24.45.213.77"
-67.213.212.50:42963 a b us ip="67.207.45.21" p="Central Utah Telephone, Inc." asn="AS36103" r="Utah" rc="UT" c="Nephi" pc="84648"
+67.213.212.50:42963 d b us ip="67.207.45.21" p="Central Utah Telephone, Inc." asn="AS36103" r="Utah" rc="UT" c="Nephi" pc="84648"
 67.213.212.51:41557 d r us ip="98.116.225.81" p="Verizon Business"
 67.213.212.51:43760 d md
 67.213.212.51:59136 d b us ip="69.11.249.122" c="Madison"
