@@ -52,6 +52,7 @@
 209.159.153.20:33777 d hd z? us ip="73.182.244.193" p="Comcast Cable Communications, LLC" asn="AS7015" r="Massachusetts" rc="MA" c="Boston" pc="02112"
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
 209.159.153.21:53599 a b us ip="70.168.201.18" p="Cox Communications Inc." asn="AS22773" r="Rhode Island" rc="RI" c="Providence" pc="02912"
+209.159.153.22:10984 a r us ip="73.213.96.12" asn="AS7922" r="Maryland" rc="MD" c="Baltimore (Reisterstown Station)"
 209.159.153.22:11372 d hd zt r us
 209.159.153.22:39182 d hd zt b us c="Ojai"
 209.159.153.22:45233 d r us ip="96.70.212.134" p="Comcast Cable Communications, LLC" asn="AS7922" r="Massachusetts" rc="MA" c="Masphee" pc="02649"
