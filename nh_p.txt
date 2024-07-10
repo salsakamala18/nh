@@ -50,6 +50,7 @@
 207.180.204.122:26492 a s4 nl
 209.159.153.19:60727 a r us ip="98.116.129.212" p="Verizon Business" c="New York"
 209.159.153.20:33777 d hd z? us ip="73.182.244.193" p="Comcast Cable Communications, LLC" asn="AS7015" r="Massachusetts" rc="MA" c="Boston" pc="02112"
+209.159.153.20:44365 a r us ip="69.214.90.196" p="AT&T Services, Inc." c="Worthington"
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
 209.159.153.21:53599 a b us ip="70.168.201.18" p="Cox Communications Inc." asn="AS22773" r="Rhode Island" rc="RI" c="Providence" pc="02912"
 209.159.153.22:10984 a r us ip="73.213.96.12" asn="AS7922" r="Maryland" rc="MD" c="Baltimore (Reisterstown Station)"
