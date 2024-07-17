@@ -4,6 +4,7 @@
 66.29.128.241:23164 d r us ip="71.158.90.11"
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
+66.29.128.243:50617 b us
 66.29.128.244:10008 d r us ip="50.230.182.38" p="Comcast Cable Communications, LLC" asn="AS7922" r="Pennsylvania" rc="PA" c="McKeesport" pc="15131"
 66.29.128.244:36382 d r us ip="96.92.141.13" p="Comcast Cable Communications, LLC" r="Massachusetts" rc="MA"
 66.29.128.245:47127 d xd
@@ -25,6 +26,7 @@
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
 67.213.212.48:45296 d ld zt w us
+67.213.212.49:18465 a r us ip="158.62.164.12" asn="AS53449" r="Oklahoma" rc="OK" c="Norman" pc="73069"
 67.213.212.49:28752 d md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.49:38005 d r us ip="24.45.213.77"
 67.213.212.50:42963 d b us ip="67.207.45.21" p="Central Utah Telephone, Inc." asn="AS36103" r="Utah" rc="UT" c="Nephi" pc="84648"
@@ -41,6 +43,7 @@
 67.213.212.58:12098 d b us ip="12.186.92.52" p="AT&T Services, Inc." r="Fort Lauderdale" rc="33332"
 67.213.212.58:48404 d md z? us ip="71.40.157.226" p="Charter Communications, Inc" asn="AS33363" rc="FL" c="Lakeland" pc="33815"
 68.71.249.153:48606 u
+69.61.200.104:36181 u
 70.166.167.38:57728 u
 72.206.181.105:64935 u
 159.223.166.21:62347 a s us
@@ -53,6 +56,7 @@
 209.159.153.20:33777 d hd z? us ip="73.182.244.193" p="Comcast Cable Communications, LLC" asn="AS7015" r="Massachusetts" rc="MA" c="Boston" pc="02112"
 209.159.153.20:44365 a r us ip="69.214.90.196" p="AT&T Services, Inc." c="Worthington"
 209.159.153.21:22155 d hd zt us ip="184.177.3.227" p="Cox Communications Inc." asn="AS22773" rc="LA" c="New Orleans" pc="70139"
+209.159.153.21:31495 r us ip="68.198.8.9" p="Cablevision Systems Corp." c="Lynbrook" pc="11563"
 209.159.153.21:53599 a b us ip="70.168.201.18" p="Cox Communications Inc." asn="AS22773" r="Rhode Island" rc="RI" c="Providence" pc="02912"
 209.159.153.22:10984 a r us ip="73.213.96.12" asn="AS7922" r="Maryland" rc="MD" c="Baltimore (Reisterstown Station)"
 209.159.153.22:11372 d hd zt r us
