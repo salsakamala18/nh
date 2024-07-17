@@ -21,7 +21,7 @@
 67.213.212.38:23519 d ?d zt b us ip="65.140.86.178" p="" asn="AS209" r="North Carolina" rc="NC" c="Clayton" pc="27520"
 67.213.212.40:15195 d ?d ip="96.91.69.54" p="Comcast Cable Communications, LLC" asn="AS7922" r="Michigan" rc="MI" c="Auburn Hills" pc="48326"
 67.213.212.40:21321 d ?d zt r us ip="24.44.16.40" p="Cablevision Systems Corp." asn="AS6128" rc="NY" c="" pc="Coney Island"
-67.213.212.40:31282 a ip="70.113.41.105" asn="AS11427" p="Charter Communications Inc" c="Austin" pc="78726"
+67.213.212.40:31282 a b us ip="70.113.41.105" asn="AS11427" p="Charter Communications Inc" c="Austin" pc="78726"
 67.213.212.40:45563 d md zt ? us
 67.213.212.40:55108 d md
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
