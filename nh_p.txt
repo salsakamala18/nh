@@ -3,17 +3,18 @@
 
 67.213.210.118:30111
 67.213.212.39:55832
-208.102.51.6:58208
+208.102.51.6:58208 u
 66.29.128.244:52926
 66.29.128.245:65490
-69.61.200.104:36181
-67.201.33.10:25283
-66.29.128.244:44981
+69.61.200.104:36181 u
+67.201.33.10:25283 u
+66.29.128.244:44981 a
 
 65.169.38.73:26592 u
 66.23.233.210:18570 d r us ip="68.206.254.132" p="Charter Communications Inc" r="Texas" rc="TX" c="San Antonio"
-66.29.128.241:16704 d b us ip="69.46.54.182" p"Peoples Communications Inc." c="Quitman" pc="75783"
+66.29.128.241:16704 d b us ip="69.46.54.182" p="Peoples Communications Inc." c="Quitman" pc="75783"
 66.29.128.241:23164 d r us ip="71.158.90.11"
+66.29.128.241:25873 a b us ip="66.76.134.94" p="Suddenlink Communications" asn="AS19108" c="Sterling" pc="20163"
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
 66.29.128.243:50617 b us
@@ -39,6 +40,7 @@
 67.213.212.40:45563 d md zt ? us
 67.213.212.40:55108 d md
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
+67.213.212.47:58781 u
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
 67.213.212.48:45296 d ld zt w us
 67.213.212.49:11714 a b us ip="184.190.9.121" p="Cox Communications Inc." asn="AS22773" r="Arizona" rc="AZ" c="Mesa" pc="85214"
