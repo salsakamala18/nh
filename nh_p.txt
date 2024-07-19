@@ -35,7 +35,7 @@
 67.213.212.40:45563 d md zt ? us
 67.213.212.40:55108 d md
 67.213.212.47:50797 d ?d zt b us ip="184.97.176.187" p="CenturyLink Communications, LLC" asn="AS209" r="Minnesota" rc="MN" c="Saint Paul" pc="55145"
-67.213.212.47:58781 u
+67.213.212.47:58781 a r us ip="50.187.212.50" p="Comcast Cable Communications, LLC" asn="AS7922" c="Branford" pc="06405"
 67.213.212.48:43238 d ?d zt b us ip="12.76.1.250" p="AT&T Services, Inc." asn="" r="New York" rc="NY" c="New York" pc="10123"
 67.213.212.48:45296 d ld zt w us
 67.213.212.49:11714 d b us ip="184.190.9.121" p="Cox Communications Inc." asn="AS22773" r="Arizona" rc="AZ" c="Mesa" pc="85214"
