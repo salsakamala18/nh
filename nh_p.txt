@@ -5,17 +5,14 @@
 69.61.200.104:36181 u
 67.201.33.10:25283 u
 66.29.128.244:44981 a
-67.213.212.52:39934
-66.29.128.243:10572
-67.213.212.54:10226
-67.213.212.38:10610
-67.213.212.52:52007
-66.42.224.229:41679
-67.201.33.10:25283
+
+66.42.224.229:41679 u
+67.201.33.10:25283 u
 66.228.35.209:56750
 67.213.212.38:39697
 67.213.212.48:63679
-67.213.212.52:27466
+
+67.213.212.52:27466 a r us ip="24.49.57.37" p="Antietam Broadband" r="Maryland" rc="MD" c="Hagerstown" pc="21740"
 67.205.177.122:21802
 67.213.212.49:12217
 67.213.212.57:60139
@@ -28,6 +25,7 @@
 66.29.128.241:25873 d b us ip="66.76.134.94" p="Suddenlink Communications" asn="AS19108" c="Sterling" pc="20163"
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
+66.29.128.243:10572 a b us ip="137.103.244.51" p="Breezeline" r="Massachusetts" rc="MA" c="Quincy" pc="02169"
 66.29.128.243:50617 b us
 66.29.128.244:10008 d r us ip="50.230.182.38" p="Comcast Cable Communications, LLC" asn="AS7922" r="Pennsylvania" rc="PA" c="McKeesport" pc="15131"
 66.29.128.244:16702 d r us ip="70.115.17.134" p="Charter Communications Inc" asn="AS11427" c="Liberty Hill" pc="78642"
