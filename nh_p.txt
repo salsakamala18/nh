@@ -13,10 +13,6 @@
 67.213.212.48:63679
 
 67.213.212.52:27466 a r us ip="24.49.57.37" p="Antietam Broadband" r="Maryland" rc="MD" c="Hagerstown" pc="21740"
-67.205.177.122:21802
-67.213.212.49:12217
-67.213.212.57:60139
-67.213.212.51:15377
 
 65.169.38.73:26592 u
 66.23.233.210:18570 d r us ip="68.206.254.132" p="Charter Communications Inc" r="Texas" rc="TX" c="San Antonio"
