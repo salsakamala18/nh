@@ -16,6 +16,7 @@
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
 66.29.128.243:10572 a b us ip="137.103.244.51" p="Breezeline" r="Massachusetts" rc="MA" c="Quincy" pc="02169"
+66.29.128.243:35416 a r us ip="73.127.83.40" p="Comcast Cable Communications, LLC" asn="AS7922" r="Arizona" rc="AZ" c="Arizona" pc="85634"
 66.29.128.243:50617 b us
 66.29.128.244:10008 d r us ip="50.230.182.38" p="Comcast Cable Communications, LLC" asn="AS7922" r="Pennsylvania" rc="PA" c="McKeesport" pc="15131"
 66.29.128.244:16702 d r us ip="70.115.17.134" p="Charter Communications Inc" asn="AS11427" c="Liberty Hill" pc="78642"
