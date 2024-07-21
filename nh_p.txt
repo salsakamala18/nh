@@ -22,6 +22,7 @@
 66.29.128.244:10008 d r us ip="50.230.182.38" p="Comcast Cable Communications, LLC" asn="AS7922" r="Pennsylvania" rc="PA" c="McKeesport" pc="15131"
 66.29.128.244:16702 d r us ip="70.115.17.134" p="Charter Communications Inc" asn="AS11427" c="Liberty Hill" pc="78642"
 66.29.128.244:36382 d r us ip="96.92.141.13" p="Comcast Cable Communications, LLC" r="Massachusetts" rc="MA"
+66.29.128.245:40615 a r us ip="99.71.220.196" p="AT&T Services, Inc." asn="AS7018" c="San Diego" pc="92101"
 66.29.128.245:47127 d xd
 66.29.128.246:38799 d md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
 66.29.128.246:53029 d hd
@@ -64,6 +65,7 @@
 67.213.212.57:13072 a r us ip="73.240.224.34" p="Comcast Cable Communications, LLC" asn="AS7922" r="Oregon" rc="OR" c="Salem" pc="97308"
 67.213.212.57:29354 am
 67.213.212.57:36828 d w us ip="67.213.212.57:36828" p="AT&T Mobility LLC" asn="AS20057"
+67.213.212.57:57085 u
 67.213.212.58:12098 d b us ip="12.186.92.52" p="AT&T Services, Inc." r="Fort Lauderdale" rc="33332"
 67.213.212.58:48404 d md z? us ip="71.40.157.226" p="Charter Communications, Inc" asn="AS33363" rc="FL" c="Lakeland" pc="33815"
 68.71.249.153:48606 u
