@@ -51,6 +51,7 @@
 67.213.212.49:18465 d r us ip="158.62.164.12" asn="AS53449" r="Oklahoma" rc="OK" c="Norman" pc="73069"
 67.213.212.49:28752 d md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.49:38005 d r us ip="24.45.213.77"
+67.213.212.49:58344 a r us ip="50.76.146.98" p="Comcast Cable Communications, LLC" r="Georgia" rc="GA" c="Marietta" pc="30006"
 67.213.212.50:17305 d r us ip="96.65.164.186" asn="AS7922" p="Comcast Cable Communications, LLC" c="Homestead" pc="33030"
 67.213.212.50:42963 d b us ip="67.207.45.21" p="Central Utah Telephone, Inc." asn="AS36103" r="Utah" rc="UT" c="Nephi" pc="84648"
 67.213.212.51:41557 d r us ip="98.116.225.81" p="Verizon Business"
