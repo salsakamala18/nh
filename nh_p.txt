@@ -25,6 +25,7 @@
 66.29.128.244:10008 d r us ip="50.230.182.38" p="Comcast Cable Communications, LLC" asn="AS7922" r="Pennsylvania" rc="PA" c="McKeesport" pc="15131"
 66.29.128.244:16702 d r us ip="70.115.17.134" p="Charter Communications Inc" asn="AS11427" c="Liberty Hill" pc="78642"
 66.29.128.244:36382 d r us ip="96.92.141.13" p="Comcast Cable Communications, LLC" r="Massachusetts" rc="MA"
+66.29.128.244:62076 a b us ip="12.26.248.179" p="AT&T Services, Inc." r="Texas" rc="TX" c="Haltom City" pc="76117"
 66.29.128.245:40615 a r us ip="99.71.220.196" p="AT&T Services, Inc." asn="AS7018" c="San Diego" pc="92101"
 66.29.128.245:47127 d xd
 66.29.128.246:38799 d md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
