@@ -37,6 +37,7 @@
 67.213.210.60:16585 a b us ip="162.0.197.238" p="HOLSTON ELECTRIC COOPERATIVE" asn="AS63448" r="Georgia" rc="GA" c="Atlanta" pc="30302"
 67.213.210.60:25212 a r us ip="216.39.227.10" p="BLU Fibre Networks inc." c="Montreal" pc="H4X"
 67.213.210.61:34680 b ?d zf ip="204.186.68.18" p="PenTeleData Inc." asn="AS3737" r="Pennsylvania" rc="PA" c="Palmerton" pc="18071"
+67.213.210.167:55448 a b us ip="64.20.135.43" r="Georgia" rc="GA" c="Atlanta" rc="30302" [kitchen_crush]
 67.213.210.118:10651 d r us ip="207.183.178.226"
 67.213.210.118:47669 u
 67.213.210.167:30945 u
