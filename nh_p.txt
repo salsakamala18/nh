@@ -55,6 +55,7 @@
 67.213.212.49:11714 d b us ip="184.190.9.121" p="Cox Communications Inc." asn="AS22773" r="Arizona" rc="AZ" c="Mesa" pc="85214"
 67.213.212.49:11728 a r us ip="172.11.37.171" p="AT&T Services, Inc." r="Tennessee" rc="TN" c="Memphis" pc="38101"
 67.213.212.49:18465 d r us ip="158.62.164.12" asn="AS53449" r="Oklahoma" rc="OK" c="Norman" pc="73069"
+67.213.212.49:22274 a r us ip="71.190.132.170" p="Verizon Business" asn="" c="New York" rc="10123"
 67.213.212.49:28752 d md zf b us ip="38.124.33.67" p="Cogent Communications" asn="AS174" rc="IL" c="Chicago (Loop)" pc="60605"
 67.213.212.49:38005 d r us ip="24.45.213.77"
 67.213.212.49:58344 a r us ip="50.76.146.98" p="Comcast Cable Communications, LLC" r="Georgia" rc="GA" c="Marietta" pc="30006"
@@ -92,6 +93,8 @@
 192.111.135.18:18301 u
 192.111.137.37:18762 u
 192.210.136.129:42074 s us
+
+209.126.9.164:41352 a u
 206.189.184.213:44268 a s us p="DigitalOcean, LLC"
 207.180.204.122:26492 a s4 nl
 209.159.153.19:60727 a r us ip="98.116.129.212" p="Verizon Business" c="New York"
