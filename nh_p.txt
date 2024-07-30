@@ -67,6 +67,7 @@
 67.213.212.50:17305 d r us ip="96.65.164.186" asn="AS7922" p="Comcast Cable Communications, LLC" c="Homestead" pc="33030"
 
 67.213.212.50:42963 d b us ip="67.207.45.21" p="Central Utah Telephone, Inc." asn="AS36103" r="Utah" rc="UT" c="Nephi" pc="84648"
+67.213.212.51:17957 u
 67.213.212.51:41557 d r us ip="98.116.225.81" p="Verizon Business"
 67.213.212.51:43760 d md
 67.213.212.51:59136 d b us ip="69.11.249.122" c="Madison"
