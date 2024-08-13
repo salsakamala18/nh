@@ -17,6 +17,7 @@
 66.29.128.241:25873 d b us ip="66.76.134.94" p="Suddenlink Communications" asn="AS19108" c="Sterling" pc="20163"
 66.29.128.241:42723 d md z? b us ss ip="23.244.172.229" p="Breezeline" asn="AS11776" r="Pennsylvania" rc="PA" c="Altoona" pc="16601"
 66.29.128.241:62860 d ld zt r us ip="70.107.188.81" p="Verizon Business" asn="" r="" rc="" c=""
+66.29.128.242:62536 d
 66.29.128.242:39127 a r us ip="73.213.213.27" asn="AS7922" r="Virginia" rc="VA" c="Catharpin" pc="20143"
 66.29.128.243:10281 a b us ip="24.73.138.19" p="" asn="" r="Florida" rc="FL" c="DeLand" pc="32724"
 66.29.128.243:10572 a b us ip="137.103.244.51" p="Breezeline" r="Massachusetts" rc="MA" c="Quincy" pc="02169"
