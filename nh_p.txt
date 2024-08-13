@@ -78,6 +78,7 @@
 67.213.212.52:36608 d b us ip="12.10.192.66" p="AT&T Services, Inc." asn="AS7018" r="Missouri" rc="MO" c="St. Peters Township" pc="63376"
 67.213.212.54:28394 d md zf b us ip="184.57.60.37" p="Charter Communications Inc" asn="AS10796" rc="OH" c="Columbus" pc="43214"
 67.213.212.55:12683 a r us ip="96.95.48.65" p="Comcast Cable Communications, LLC" asn="AS7922" r="Maryland" rc="MD" c="Towson" pc="21252" ["kitchen_crush":"42"]
+67.213.212.55:61506 d
 67.213.212.56:10008 d r us ip="23.24.176.230" p="Comcast Cable Communications, LLC" r="Florida" asn="AS7922" rc="FL" c="Boca Raton" pc="33429" [kitchencrush]
 67.213.212.56:38607 am md zt r us ip="50.250.60.126" p="Comcast Cable Communications, LLC" asn="AS7922" rc="MA" c="Needham" pc="02494"
 67.213.212.57:13072 a r us ip="73.240.224.34" p="Comcast Cable Communications, LLC" asn="AS7922" r="Oregon" rc="OR" c="Salem" pc="97308"
