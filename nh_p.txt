@@ -31,6 +31,7 @@
 66.29.128.245:40615 a r us ip="99.71.220.196" p="AT&T Services, Inc." asn="AS7018" c="San Diego" pc="92101"
 66.29.128.245:47127 d xd
 66.29.128.246:38799 d md zf ip="67.245.5.255" p="Charter Communications Inc" asn="AS12271" rc="NY" c="Brooklyn" pc="11232"
+66.29.128.246	42816 a r us zf ip="173.68.196.33" p="Verizon Business" asn="AS701" r="New York" rc="NY" pc="10123" ads_type=cube [templeblockpuzzle]
 66.29.128.246:53029 d hd
 66.29.129.56:39921 a b us ip="68.129.83.50" c="Ashburn" ztl=[happy_pin,fruit_craft]
 66.29.154.103:1080
